@@ -1,0 +1,6 @@
+Order ID,Customer Name,Category,Sales,Quantity,Profit,Region,Order Date
+O001,Rahul,Furniture,5000,2,800,South,2024-01-05
+O002,Priya,Technology,12000,1,2500,East,2024-01-08
+O003,Arjun,Office Supplies,800,4,120,West,2024-01-10
+O004,Sneha,Furniture,3000,3,450,North,2024-01-12
+O005,Ravi,Technology,9500,2,1800,South,2024-01-15
