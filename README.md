@@ -1,57 +1,67 @@
-# apexplanet-data-analytics
-30 Days  Data Analytics Internship
-## Task 3 - Data Visualization & Dashboarding
+# ApexPlanet Data Analytics - Task 4
 
-### Objective
-Create professional visualizations and an interactive Power BI dashboard using the Superstore dataset.
+## Advanced Analytics
 
-### Python Visualizations
-The following visualizations were created using Python:
+This repository contains the work completed for **Task 4 of the ApexPlanet Data Analytics Internship**.
 
-- Sales by Category
-- Sales by Region
-- Monthly Sales Trend
-- Profit by Category
-- Correlation Heatmap
-- Interactive Sales by Category using Plotly
+## Objective
 
-### Power BI Dashboard
+The objective of Task 4 is to perform advanced analytics on the Superstore dataset and generate meaningful business insights using Python.
 
-The interactive Power BI dashboard includes:
+## Dataset
 
-- Total Sales KPI
-- Total Profit KPI
-- Total Orders KPI
-- Profit Margin KPI
-- Sales by Category
-- Monthly Sales Trend
-- Sales by Region
-- Profit by Category
-- Region, Category, and Date filters
+The project uses the **Sample Superstore dataset**, containing information about:
 
-### DAX Measures
+- Order ID
+- Customer Name
+- Category
+- Sales
+- Quantity
+- Profit
+- Region
+- Order Date
 
-The following DAX measures were created:
+## Task 4 Analysis
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Quantity
-- Profit Margin
+The notebook includes:
 
-### Task 3 Deliverables
+- Exploratory data analysis
+- Statistical analysis
+- Correlation analysis
+- Hypothesis testing
+- Feature analysis
+- Customer analysis
+- Sales analysis
+- Profit analysis
+- Machine learning techniques
+- Business insights
+- Data-driven recommendations
 
-- Python visualization files in the `visualizations/` folder
-- Interactive Plotly HTML visualization
-- Power BI dashboard: `dashboards/superstore_dashboard.pbix`
+## Task 4 Notebook
 
-### Tools Used
+The complete analysis is available in:
+
+`notebooks/task4_advanced_analytics.ipynb`
+
+## Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly
-- Power BI
-- DAX
+- SciPy
+- Scikit-learn
+- Jupyter Notebook
+
+## Project Structure
+
+```text
+apexplanet-data-analytics-task4/
+│
+├── data/
+├── notebooks/
+│   └── task4_advanced_analytics.ipynb
+├── reports/
+├── README.md
+└── requirements.txt
